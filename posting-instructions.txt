@@ -1,0 +1,18 @@
+How to post the bring-the-humans-03 ad on TikTok (for @zhiwei.gao)
+
+1. Take the video file ad.mp4 (21.5 seconds, 1080x1920 vertical) that LT.G sent you.
+2. In the TikTok app, tap + and upload ad.mp4 as a VIDEO (not a photo post).
+3. Audience: set "Who can watch this video" to Everyone. The account must stay
+   public, and the video must stay public until the results are out (Dec 9).
+4. Caption: paste the whole text of caption.txt (in this repo) as the caption,
+   exactly as written. It carries the "$500 bounty" line, make.fun, the referral
+   link and the play code makefun-crayon-thrush-mask. Do not edit the middle
+   line — the bounty checks it word for word.
+5. Post it, then open the video in a browser and copy its full address — it must
+   look like https://www.tiktok.com/@zhiwei.gao/video/<digits> (a short
+   vm.tiktok.com link will NOT do; open it and copy the address it lands on).
+6. Send that full address back to LT.G. LT.G will put it in VIDEO.json, push
+   the repo and submit the entry before the Nov 25 03:00 CST deadline.
+7. Do NOT buy views, pay to promote the video (TikTok Promote included), or use
+   bots/loops — bought or farmed views disqualify the entry. Sharing the video
+   and asking people to watch it is fine.
